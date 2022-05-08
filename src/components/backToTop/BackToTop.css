@@ -1,0 +1,11 @@
+#BackToTop{
+    position: fixed;
+    right: 1%;
+    bottom: 1%;
+    cursor: pointer;
+}
+
+#BackToTop i{
+    font-size: 50px;
+    color: gray;
+}

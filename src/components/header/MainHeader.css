@@ -1,0 +1,22 @@
+
+.mainNavbar{
+  background-color: #131921;
+  min-height: 89px;
+}
+.subHeader {
+  width: 100%;
+  display: flex;
+  background-color: #321c0c;
+  color: #fff;
+  align-items: center;
+}
+
+.subHeader  a {
+  padding: 5px;
+  color: #fff;
+  text-decoration: none;
+}
+.subHeader  a:hover{
+  color:#fff;
+  font-weight: bold;
+}
